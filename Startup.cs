@@ -1,13 +1,12 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.SpaServices.AngularCli;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
 using hacker_news_dotnet_angular.Core.Interfaces;
 using hacker_news_dotnet_angular.Infrastructure;
+using Microsoft.AspNetCore.SpaServices.AngularCli;
 
 namespace hacker_news_dotnet_angular
 {

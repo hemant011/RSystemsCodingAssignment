@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Newtonsoft.Json;
 using Microsoft.Extensions.Caching.Memory;
 using hacker_news_dotnet_angular.Core.Interfaces;
+using Newtonsoft.Json;
 
 namespace hacker_news_dotnet_angular.Controllers
 {
