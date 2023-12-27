@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 
-namespace hacker_news_dotnet_angular.Pages
+namespace r_systems_assignment.Pages
 {
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public class ErrorModel : PageModel

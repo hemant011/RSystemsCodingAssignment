@@ -10,7 +10,7 @@
 
     <!-- Set this to true if you enable server-side prerendering -->
     <BuildServerSideRenderer>false</BuildServerSideRenderer>
-    <RootNamespace>hacker_news_dotnet_angular</RootNamespace>
+    <RootNamespace>r_systems_assignment</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

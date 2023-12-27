@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace hacker_news_dotnet_angular
+namespace r_systems_assignment
 {
     public class Program
     {

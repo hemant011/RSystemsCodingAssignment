@@ -1,6 +1,6 @@
 using System;
 
-namespace hacker_news_dotnet_angular
+namespace r_systems_assignment
 {
     public class HackerNewsStory
     {

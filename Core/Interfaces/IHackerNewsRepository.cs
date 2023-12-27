@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using System.Net.Http;
 
-namespace hacker_news_dotnet_angular.Core.Interfaces
+namespace r_systems_assignment.Core.Interfaces
 {
     public interface IHackerNewsRepository
     {

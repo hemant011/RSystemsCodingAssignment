@@ -4,11 +4,11 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-using hacker_news_dotnet_angular.Core.Interfaces;
-using hacker_news_dotnet_angular.Infrastructure;
+using r_systems_assignment.Core.Interfaces;
+using r_systems_assignment.Infrastructure;
 using Microsoft.AspNetCore.SpaServices.AngularCli;
 
-namespace hacker_news_dotnet_angular
+namespace r_systems_assignment
 {
     public class Startup
     {

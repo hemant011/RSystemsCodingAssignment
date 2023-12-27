@@ -4,10 +4,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Caching.Memory;
-using hacker_news_dotnet_angular.Core.Interfaces;
+using r_systems_assignment.Core.Interfaces;
 using Newtonsoft.Json;
 
-namespace hacker_news_dotnet_angular.Controllers
+namespace r_systems_assignment.Controllers
 {
     [ApiController]
     [Route("[controller]")]

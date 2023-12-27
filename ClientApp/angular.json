@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "hacker_news_dotnet_angular": {
+    "r_systems_assignment": {
       "root": "",
       "sourceRoot": "src",
       "projectType": "application",
@@ -53,18 +53,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "hacker_news_dotnet_angular:build"
+            "browserTarget": "r_systems_assignment:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "hacker_news_dotnet_angular:build:production"
+              "browserTarget": "r_systems_assignment:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "hacker_news_dotnet_angular:build"
+            "browserTarget": "r_systems_assignment:build"
           }
         },
         "test": {
@@ -124,7 +124,7 @@
         }
       }
     },
-    "hacker_news_dotnet_angular-e2e": {
+    "r_systems_assignment-e2e": {
       "root": "e2e/",
       "projectType": "application",
       "architect": {
@@ -132,7 +132,7 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "hacker_news_dotnet_angular:serve"
+            "devServerTarget": "r_systems_assignment:serve"
           }
         },
         "lint": {
@@ -147,5 +147,5 @@
       }
     }
   },
-  "defaultProject": "hacker_news_dotnet_angular"
+  "defaultProject": "r_systems_assignment"
 }

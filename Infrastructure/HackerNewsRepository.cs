@@ -2,9 +2,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Net.Http;
-using hacker_news_dotnet_angular.Core.Interfaces;
+using r_systems_assignment.Core.Interfaces;
 
-namespace hacker_news_dotnet_angular.Infrastructure
+namespace r_systems_assignment.Infrastructure
 {
     public class HackerNewsRepository : IHackerNewsRepository
     {
